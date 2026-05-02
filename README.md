@@ -9,9 +9,9 @@ No trabalho dessa semana vamos alterar o projeto para que a responsividade da ho
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
+- Nome: Lucca Marinho Eterovik Tavares Pereira
+- Matricula: 913529
+- Proposta de projeto escolhida: 
 - Breve descrição sobre seu projeto:
 
 ## Print da versão responsiva com Bootstrap [DESKTOP]
